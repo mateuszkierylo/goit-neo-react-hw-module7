@@ -1,0 +1,16 @@
+.contactList {
+  display: flex;
+  gap: 15px;
+  flex-wrap: wrap;
+}
+
+.contactList li {
+  width: 250px;
+}
+
+.message {
+  margin: 16px;
+  font-size: 14px;
+  color: #888;
+  font-style: italic;
+}

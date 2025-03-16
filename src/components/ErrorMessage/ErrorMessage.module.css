@@ -1,0 +1,11 @@
+.errorContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
+
+.errorMessage {
+  font-style: italic;
+  color: red;
+}

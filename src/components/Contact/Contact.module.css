@@ -1,0 +1,9 @@
+.contact {
+  display: flex;
+  gap: 15px;
+  justify-content: space-between;
+}
+
+.icon {
+  margin: 0 15px 0 0;
+}
